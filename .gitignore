@@ -13,4 +13,9 @@
 .settings/**/*
 RemoteSystemsTempFiles/
 *~
+*/.cache
+*/.cache/**/
+*/.cache/*
+*/.worksheet/**/
+*/.worksheet/*
 
