@@ -9,12 +9,8 @@
 */.externalToolBuilders/*
 */.externalToolBuilders/**/*
 */.classpath
-*/.project
-.project
 .settings/*
 .settings/**/*
+RemoteSystemsTempFiles/
 *~
-algorithms/*
-algorithms/**/*
-
 
